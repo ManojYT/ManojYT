@@ -1,6 +1,6 @@
 ## <h1 align="left">Hello, I'm Manoj Karki. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-I'm currently working on the project called **[KantipurRP](https://kantipurrp.com/)** which is a GTA V roleplay server on FiveM.
+I'm currently working on the project called **[KantipurRP](https://kantipurrp.com/)** which is a GTA V roleplay server on **[FiveM](https://fivem.net/)**.
 
 ## Languages and Tools:
 
