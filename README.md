@@ -6,8 +6,8 @@ I'm currently working on the project called **[KantipurRP](https://kantipurrp.co
 
 <p align="left">
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img style="width:48px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+    <a href="https://www.lua.org/" target="_blank"> <img style="width:48px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> 
