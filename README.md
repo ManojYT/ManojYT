@@ -4,7 +4,7 @@ I'm currently working on the project called **[KantipurRP](https://kantipurrp.co
 
 ## Stats
 <div alight="left">
-    <img src="https://streak-stats.demolab.com?user=ManojYT&theme=buefy-dark"/>
+    <img src="https://streak-stats.demolab.com?user=ManojYT&theme=buefy-dark&hide_border=true"/>
 </div>
 
 ## Languages and Tools:
