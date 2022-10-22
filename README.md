@@ -2,6 +2,11 @@
 
 I'm currently working on the project called **[KantipurRP](https://kantipurrp.com/)** which is a GTA V roleplay server on **[FiveM](https://fivem.net/)**.
 
+## Stats
+<div alight="left">
+    <img src="https://streak-stats.demolab.com?user=ManojYT&theme=buefy-dark"/>
+</div>
+
 ## Languages and Tools:
 
 <p align="left">
