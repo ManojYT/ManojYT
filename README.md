@@ -2,10 +2,6 @@
 
 I'm currently working on the project called **[KantipurRP](https://kantipurrp.com/)** which is a GTA V roleplay server on **[FiveM](https://fivem.net/)**.
 
-<!-- ## Stats
-<div alight="left">
-    <img src="https://streak-stats.demolab.com?user=ManojYT&theme=buefy-dark&hide_border=true"/>
-</div> -->
 
 ## Languages and Tools:
 
@@ -18,6 +14,12 @@ I'm currently working on the project called **[KantipurRP](https://kantipurrp.co
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> 
     <a style="padding-right:8px;" href="https://mariadb.com/" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/maria-db.png"/></a>
 </p>
+
+## Stats
+<div alight="left">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojYT&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF"/>
+</div>
+
 <!---
 ManojYT/ManojYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
